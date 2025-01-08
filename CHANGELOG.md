@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-27)
+## Unreleased (2025-01-08)
 
 <section class="features">
 
@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`7e63aad`](https://github.com/stdlib-js/stdlib/commit/7e63aad8c0b42330b0933973bddea8d1c5e84862) - wrap function calls in `API_SUFFIX` in native addons [(#4646)](https://github.com/stdlib-js/stdlib/pull/4646)
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`7e63aad`](https://github.com/stdlib-js/stdlib/commit/7e63aad8c0b42330b0933973bddea8d1c5e84862) - **fix:** wrap function calls in `API_SUFFIX` in native addons [(#4646)](https://github.com/stdlib-js/stdlib/pull/4646) _(by Aayush Khanna)_
 -   [`054139f`](https://github.com/stdlib-js/stdlib/commit/054139f55063bd8fed79c45dc0faf6c2fe67d869) - **refactor:** update benchmarks in `stats/base` to follow latest project conventions [(#4299)](https://github.com/stdlib-js/stdlib/pull/4299) _(by Aayush Khanna)_
 -   [`3a2d4a7`](https://github.com/stdlib-js/stdlib/commit/3a2d4a787de68dbfd5a5e7522b0839db6f2a2245) - **docs:** fix descriptions _(by Athan Reines)_
 -   [`fd3a204`](https://github.com/stdlib-js/stdlib/commit/fd3a204fd933a13b07c19db7729cb6bb7e2e2175) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dnanmax` [(#4206)](https://github.com/stdlib-js/stdlib/pull/4206) _(by Aayush Khanna)_
