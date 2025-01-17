@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-16)
+## Unreleased (2025-01-17)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`7bab2c6`](https://github.com/stdlib-js/stdlib/commit/7bab2c62de11b478cd09f0e2c3b585be45895fbd) - **docs:** increase success probability in examples _(by Athan Reines)_
 -   [`ad4a4ce`](https://github.com/stdlib-js/stdlib/commit/ad4a4ce3abd038def188a7a617d9d58036333c10) - **docs:** refactor examples of `stats/base/dnanmax` [(#4781)](https://github.com/stdlib-js/stdlib/pull/4781) _(by Aayush Khanna, Athan Reines)_
 -   [`b00d9f1`](https://github.com/stdlib-js/stdlib/commit/b00d9f1064701187f48a05b9753e74ae835b0726) - **docs:** fix typing error in `repl.txt` of `stats/base/*` [(#4750)](https://github.com/stdlib-js/stdlib/pull/4750) _(by Aayush Khanna)_
 -   [`7e63aad`](https://github.com/stdlib-js/stdlib/commit/7e63aad8c0b42330b0933973bddea8d1c5e84862) - **fix:** wrap function calls in `API_SUFFIX` in native addons [(#4646)](https://github.com/stdlib-js/stdlib/pull/4646) _(by Aayush Khanna)_
