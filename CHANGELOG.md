@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-18)
+## Unreleased (2025-02-05)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`93c884d`](https://github.com/stdlib-js/stdlib/commit/93c884d677c3c79c24a451a0f1badf45d8b6ee16) - **bench:** update `NaN` generation in `stats/base/*` [(#5044)](https://github.com/stdlib-js/stdlib/pull/5044) _(by Aayush Khanna)_
 -   [`e0799e5`](https://github.com/stdlib-js/stdlib/commit/e0799e5da799e74ff3369f652f4380aeb8dfe7fc) - **refactor:** update paths _(by Athan Reines)_
 -   [`7bab2c6`](https://github.com/stdlib-js/stdlib/commit/7bab2c62de11b478cd09f0e2c3b585be45895fbd) - **docs:** increase success probability in examples _(by Athan Reines)_
 -   [`ad4a4ce`](https://github.com/stdlib-js/stdlib/commit/ad4a4ce3abd038def188a7a617d9d58036333c10) - **docs:** refactor examples of `stats/base/dnanmax` [(#4781)](https://github.com/stdlib-js/stdlib/pull/4781) _(by Aayush Khanna, Athan Reines)_
